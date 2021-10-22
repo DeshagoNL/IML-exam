@@ -1,0 +1,86 @@
+"Name","County","HousePrice","CrimeRate","MilesPhila","PopChg"
+"Morrisville","Bucks",96769,36.1,15,5.1
+"Newtown","Bucks",153842,15.3,23,8.5
+"Pottstown","Montgome",78175,53.2,41,2.2
+"Buckingham","Bucks",264298,20.4,26,6
+"Doylestown","Bucks",190317,19.4,26,1.9
+"Phila, NE","Phila",60000,65,9,-4.9
+"Cheltenham","Montgome",147600,50.3,9,-1
+"Hatboro","Montgome",114572,17.5,20,5.2
+"Villanova","Montgome",436348,22.1,15,1.3
+"Clifton","Delaware",77370,34.2,10,-1.2
+"Easttown","Chester",280969,17.7,14,2.9
+"Phila, West","Phila",42000,69.9,4,-5.7
+"E. Whiteland","Chester",170556,27.2,30,4.6
+"Phila, Far NE","Phila",60000,45.8,18,-1.4
+"L. Gwynedd","Montgome",272790,14.5,20,-5.1
+"L. Moreland","Montgome",210884,20.8,20,0.1
+"Phila, NW","Phila",61800,49.9,9,-6.4
+"Schuylkill","Chester",229711,9.8,22,5.3
+"Lansdown","Delaware",93738,19.3,7,-0.4
+"Downingtown","Chester",104923,48.1,21,6.9
+"Warrington","Bucks",152624,24,19,23.1
+"W. Chester","Chester",124478,71.9,22,4.6
+"Willistown","Chester",232714,9.9,21,0.2
+"Glenolden","Delaware",97167,29.3,10,0.2
+"Solebury","Bucks",259506,7.2,40,17.4
+"Darby Bor.","Delaware",40642,45.7,15,0
+"Bryn Mawr","Montgome",297342,20.2,14,0.6
+"Darby Town","Delaware",71359,22.3,8,1.6
+"W. Whiteland","Chester",114157,44.6,38,14.6
+"Tredyffin","Chester",215783,21.2,20,1.1
+"Whitemarsh","Montgome",196515,29.9,16,1.8
+"Upper Darby","Delaware",93648,34.5,8,-0.7
+"Abington","Montgome",140463,29.7,10,-1
+"Ambler","Montgome",113033,24.1,18,4
+"U. Makefield","Bucks",359112,9.4,36,4
+"Chalfont","Bucks",134342,17.3,31,4.2
+"Narberth","Montgome",157446,14.6,15,3.1
+"Swarthmore","Delaware",205732,11.2,12,-0.2
+"Morton","Delaware",94014,26.6,14,0.5
+"Phila,CC","Phila",96200,366.1,0,4.8
+"Bristol B.","Bucks",79124,54.1,19,3.9
+"Bristol T.","Bucks",92634,48.6,20,0.6
+"W. Goshen","Chester",168276,31.9,26,5.9
+"Norristown","Montgome",71981,73.3,19,4.9
+"Malvern","Chester",156035,13,23,6.3
+"Sharon Hill","Delaware",74308,29.9,7,1.8
+"Ridley Town","Delaware",100231,24.1,15,1.9
+"Phila, SW","Phila",38000,54.8,4.5,-5.1
+"U. Providence","Delaware",242821,6.6,21,1.6
+"Warminster","Bucks",130088,28.6,19,-0.2
+"Springfield","Montgome",159573,19.4,15,-2.1
+"Phila, N","Phila",28000,44.9,5.5,-8.4
+"Prospect Park","Delaware",92215,17.4,14,7.8
+"Nether","Delaware",150283,18.2,15,0.9
+"Upper Darby","Montgome",199065,13.2,20,7.8
+"Yardley","Bucks",130953,13,24,5.2
+"Ridley Park","Delaware",119566,14.5,12,-2.9
+"Northampton","Bucks",169401,7.1,22,1.5
+"Brookhaven","Delaware",89246,30.8,15,-2.6
+"Uwchlan T.","Chester",163001,22.1,50,8
+"Royersford","Montgome",95831,21.2,32,3.2
+"U. Southampton","Bucks",142811,15.9,20,-1.6
+"Collegeville","Montgome",170822,33.7,32,2.4
+"Phila, South","Phila",38000,53.5,2,-9.2
+"Middletown","Bucks",143072,40.1,23,1.6
+"Aston","Delaware",124186,19.5,25,8
+"Jenkintown","Montgome",122392,17.3,10,1.9
+"Newtown T.","Delaware",206127,17.4,15,2.7
+"Norwood","Delaware",99843,12.5,12,-3.7
+"Limerick","Montgome",121024,39.5,35,26.9
+"Falls Town","Bucks",114233,29,30,1.3
+"N. Wales","Montgome",118214,25.1,25,5.7
+"Radnor","Delaware",271804,15.5,17,1.2
+"Wynnewood","Montgome",245920,22.6,10,0.3
+"E. Norriton","Montgome",131025,31.3,19,-1.8
+"Westtown","Chester",174232,13.8,25,4.7
+"Newtown B.","Bucks",197214,15.2,25,2.1
+"Follcroft","Delaware",74502,21.4,15,-3.2
+"U. Uwchlan","Chester",200498,18.8,36,11
+"U. Merion","Montgome",189959,61.7,22,-2.1
+"Bensalem","Bucks",110490,49.4,25,2.7
+"Gladwyne","Montgome",475112,28.6,12,NA
+"U. Chichester","Delaware",116710,42.8,20,12.9
+"Springfield","Delaware",147176,41.1,12,-1.7
+"Haverford","Delaware",436348,16.5,10,-0.7
